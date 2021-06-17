@@ -1,0 +1,5 @@
+11111111	CarlosCarlosCarlosCa	      Battiston	 3/11/1987	M	 4/11/2015	15	 8,66	B
+22222222	             Alberto	       RRRobert	 3/11/1987	M	 4/11/2015	15	 8,66	B
+33333333	             Marcelo	          Samir	 3/11/1987	M	 4/11/2015	15	 8,66	B
+66666666	     Nicolas Roberto	       Pascuone	 3/11/1987	M	 4/11/2015	15	 8,66	B
+11223311	               Cosme	       Fulanito	 3/11/1987	M	 8/ 6/2012	 7	 7,54	B
