@@ -44,7 +44,7 @@ public class Alumno_GUI extends javax.swing.JFrame {
     public Alumno_GUI() throws MiCalendarioException, PersonaException, DAOException, DAOFactoryException {
         initComponents();
         setLocationRelativeTo(null);
-  
+        System.out.println("Hola Mundo");
         aluModel = new Alumno_Model();
         jTableAlumnos.setModel(aluModel);
     }
